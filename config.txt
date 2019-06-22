@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTkyMDAyNzc0NTc3NzA5MDU2.XQ5Akg.32LzOx8QLTAE5mVMv1EAQvoKVEM
+owner=468836034185265162  
+prefix=1 
+game=Death
 stayinchannel=true
 songinstatus=true
